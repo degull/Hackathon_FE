@@ -8,7 +8,7 @@ export default function Content() {
         < MenuBox 
             link = "/InfoComponents/App/Food/BaeMin" 
             iconSrc = '\AppIcon\BaeMin.png' 
-            text1 = 'BaeMin 배달의 민족' 
+            text1 = 'BaeMin 배달의 민족'  
             text2 = 'The most popular Korean subway application' 
             hashtag1='#Food'
                 
