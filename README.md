@@ -1,4 +1,4 @@
-CatchKorea (HelloKorea Service Guide)
+# CatchKorea (HelloKorea Service Guide)
 
 외국인 관광객 및 국내 거주 외국인의 편리한 한국 생활 정착을 돕기 위해 RAG 기반 AI 챗봇과 맞춤형 모바일 생활 정보 서비스를 제공하는 웹 프로젝트입니다.
 
