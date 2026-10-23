@@ -48,31 +48,52 @@ Knowledge Base: 한국 생활 가이드/공공/교통 데이터셋 인덱싱 & L
 
 1. RAG 기반 AI 챗봇 (AI Assistant) 🤖
 
+<img width="80" height="180" alt="그림1" src="https://github.com/user-attachments/assets/76cf6845-f772-40f6-9b5c-7a84dcce26a5" />
+
+
 실시간 맞춤 질문/답변: 사용자 질의에 대해 지식 베이스(Knowledge Base)에서 관련 정보를 검색한 후, LLM이 신뢰도 높은 한국 생활 가이드 답변을 생성합니다.
 
 자연스러운 대화형 인터페이스: 공공기관 이용 방법, 대중교통 이용 팁 등 복잡한 절차도 대화 형태로 손쉽게 안내받을 수 있습니다.
 
 2. 메인 화면 (Home)
 
+   <img width="1074" height="2433" alt="catchkorea_home" src="https://github.com/user-attachments/assets/9f17e4b4-66cb-477a-8caf-111936dc34df" />
+
+
 사용자가 자주 찾는 서비스 카테고리(공공서비스, 교통, 생활 앱)와 AI 챗봇, 긴급 연락처, FAQ로 빠르게 이동할 수 있는 대시보드 화면을 제공합니다.
 
 3. 카테고리 메뉴 (Menu)
+
+   <img width="1074" height="2433" alt="catchkorea_menu" src="https://github.com/user-attachments/assets/03ec4ab7-73ad-4337-bba8-3e098b51db63" />
+
 
 행정, 교통, 문화생활, 금융, 배달, 구직 등 필수 애플리케이션 카테고리를 체계적으로 탐색할 수 있습니다.
 
 4. 공공서비스 가이드 (Public Service)
 
+   <img width="1074" height="2433" alt="catchkorea_public" src="https://github.com/user-attachments/assets/8aa88252-567d-4ef7-90c3-ea7dc3d78a72" />
+
+
 정부24, 모바일 신분증, PASS, 홈택스 등 필수 행정 및 인증 서비스의 상세 정보와 스토어 다운로드 연결을 지원합니다.
 
 5. 교통 및 지도 서비스 (Map & Traffic)
+
+   <img width="1074" height="2433" alt="catchkorea_traffic" src="https://github.com/user-attachments/assets/43613e81-d597-446e-82aa-8e9c6820e222" />
+
 
 네이버 지도, 카카오 지도 등 필수 내비게이션 앱 안내와 실생활에 유용한 대중교통 이용 팁을 안내합니다.
 
 6. 긴급전화 및 의료 핫라인 (Emergency Hotline)
 
+   <img width="1074" height="2433" alt="catchkorea_emergency" src="https://github.com/user-attachments/assets/0f176b94-69a7-47c3-81a6-7798752e699f" />
+
+
 위급 상황 시 대처 가능한 119 등 필수 응급 연락처와 가이드를 아코디언 UI 형태로 신속하게 확인할 수 있습니다.
 
 📱 전체 서비스 시연 (Demo)
+
+<img width="430" height="974" alt="catchkorea_demo" src="https://github.com/user-attachments/assets/8f39218f-2b66-4467-bc3d-76b211826b79" />
+
 
 홈 화면 진입부터 카테고리 탐색, AI 챗봇 대화 및 긴급 안내 확인까지의 사용자 흐름입니다.
 
